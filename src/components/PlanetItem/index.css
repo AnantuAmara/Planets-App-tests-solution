@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  height: 150px;
+  width: 150px;
+}
+
+.name {
+  color: #f8fafc;
+  font-size: 25px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.description {
+  color: #f1f5f9;
+  font-size: 15px;
+  font-family: 'Roboto';
+  text-align: center;
+  line-height: 1.5px;
+}
